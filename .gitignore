@@ -1,3 +1,5 @@
+
+
 # Created by https://www.gitignore.io/api/node
 
 ### Node ###
@@ -41,3 +43,6 @@ jspm_packages
 
 # Learn-specific .results.json
 .results.json
+
+#Github token
+token.txt
